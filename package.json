@@ -43,5 +43,7 @@
     "url": "https://github.com/arch-admin/medicamento-gestao-api/issues"
   },
   "homepage": "https://github.com/arch-admin/medicamento-gestao-api#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "coffeescript": "^2.1.0"
+  }
 }
